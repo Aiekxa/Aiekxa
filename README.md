@@ -2,6 +2,8 @@
 
 First of all, GitHub is a great tool
 It can give you a better understanding of me
+Of course, it does more than that
+But that's enough
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
